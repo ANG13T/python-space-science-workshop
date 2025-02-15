@@ -31,6 +31,13 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RubyModuleManagerSettings">
+    <option name="blackListedRootsPaths">
+      <list>
+        <option value="$PROJECT_DIR$" />
+      </list>
+    </option>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -47,7 +54,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1739642808865</updated>
-      <workItem from="1739642810595" duration="826000" />
+      <workItem from="1739642810595" duration="1226000" />
     </task>
     <servers />
   </component>
